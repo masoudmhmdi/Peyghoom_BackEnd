@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peyghoom_BackEnd", "Peyghoom_BackEnd.csproj", "{034F815A-FD1C-44F9-9124-6AF7AEEDDA65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeyWT", "..\PeyWT\PeyWT.csproj", "{AFCF6D9E-52A3-4328-8798-85953289815F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{034F815A-FD1C-44F9-9124-6AF7AEEDDA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{034F815A-FD1C-44F9-9124-6AF7AEEDDA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{034F815A-FD1C-44F9-9124-6AF7AEEDDA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCF6D9E-52A3-4328-8798-85953289815F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCF6D9E-52A3-4328-8798-85953289815F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCF6D9E-52A3-4328-8798-85953289815F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCF6D9E-52A3-4328-8798-85953289815F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
